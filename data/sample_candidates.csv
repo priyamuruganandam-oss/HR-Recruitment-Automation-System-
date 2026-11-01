@@ -1,0 +1,5 @@
+candidate_id,full_name,email,phone,education,experience_years,skills,location,notice_period_days,expected_salary,applied_role
+S001,Arun Kumar,arun@example.com,9876543210,Bachelor of Engineering,3,"Python, SQL, Excel",Chennai,30,450000,Python Developer
+S002,Meena Raj,meena@example.com,9876543211,Master of Computer Applications,1,"Python, HTML",Coimbatore,90,400000,Python Developer
+S003,Sample Invalid,,9876543212,Bachelor of Science,2,"SQL, Excel",Madurai,30,350000,Python Developer
+S004,Kavin S,kavin@example.com,9876543213,Diploma,4,"Java, SQL",Trichy,45,420000,Python Developer
